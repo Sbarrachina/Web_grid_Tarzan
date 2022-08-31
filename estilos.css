@@ -126,7 +126,6 @@ background-image: url(img/tarzan/banner-mutimedia.webp);
   display: grid;
   align-items: center;
   justify-items: center;
-  text-align: center;
   font-size: 1.5em;
 
 
@@ -293,27 +292,27 @@ opacity: 1;
   }
 
   #posts .post.post-1 {
-      background-image: url(img/work-15.png);
+      background-image: url(img/tarzan/post1.png);
   }
 
   #posts .post.post-2 {
-      background-image: url(img/work-02.png);
+      background-image: url(img/tarzan/post2.png);
   }
 
   #posts .post.post-3 {
-      background-image: url(img/work-05.png);
+      background-image: url(img/tarzan/post3.png);
   }
 
   #posts .post.post-4 {
-      background-image: url(img/work-08.png);
+      background-image: url(img/tarzan/post4.png);
   }
 
   #posts .post.post-5 {
-      background-image: url(img/work-10.png);
+      background-image: url(img/tarzan/post5.png);
   }
 
   #posts .post.post-6 {
-      background-image: url(img/work-15.png);
+      background-image: url(img/tarzan/post6.png);
   }
 
   /* CONTACT */
